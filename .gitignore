@@ -1,0 +1,10 @@
+# Sqitch runtime / local overrides
+sqitch.local.conf
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
